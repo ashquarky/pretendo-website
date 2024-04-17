@@ -47,7 +47,7 @@
 		"QAs": [
 			{
 				"question": "Was ist Pretendo?",
-				"answer": "Pretendo ist ein Open-Source-Ersatz für das Nintendo Network, mit dem eigene Server für die Wii U und der 3DS-Familie erstellt werden sollen. Unser Ziel ist es, die Online-Funktionalität der Konsolen zu beibehalten, damit Spieler auch weiterhin ihre Lieblingsspiele für die Wii U und den 3DS vollständig spielen können."
+				"answer": "Pretendo ist ein Open-Source-Ersatz für das Nintendo Network, mit dem eigene Server für die Wii U und der 3DS-Familie erstellt werden sollen. Unser Ziel ist es, die Online-Funktionalität der Konsolen beizubehalten, damit Spieler auch weiterhin ihre Lieblingsspiele für die Wii U und den 3DS vollständig spielen können."
 			},
 			{
 				"question": "Werden meine vorhandenen NNIDs mit Pretendo weiterhin funktionieren?",
@@ -99,116 +99,15 @@
 	},
 	"credits": {
 		"title": "Das Team",
-		"text": "Triff das Team hinter dem Projekt",
-		"people": [
-			{
-				"name": "Jonathan Barrow (jonbarrow)",
-				"caption": "Projektinhaber und leitender Entwickler",
-				"picture": "https://github.com/jonbarrow.png",
-				"github": "https://github.com/jonbarrow"
-			},
-			{
-				"name": "Jemma (CaramelKat)",
-				"caption": "Miiverse-Forschung und -Entwicklung",
-				"picture": "https://github.com/caramelkat.png",
-				"github": "https://github.com/CaramelKat"
-			},
-			{
-				"name": "Rambo6Glaz",
-				"caption": "Network-Installer und Konsolenforschung",
-				"picture": "https://github.com/EpicUsername12.png",
-				"github": "https://github.com/EpicUsername12"
-			},
-			{
-				"name": "quarky",
-				"caption": "BOSS-Forschung und Patchentwicklung",
-				"picture": "https://github.com/ashquarky.png",
-				"github": "https://github.com/ashquarky"
-			},
-			{
-				"name": "SuperMarioDaBom",
-				"caption": "Forschung auf Konsole und anderen Systemen",
-				"picture": "https://github.com/supermariodabom.png",
-				"github": "https://github.com/SuperMarioDaBom"
-			},
-			{
-				"name": "Jip Fr",
-				"caption": "Webentwicklungsleiter",
-				"picture": "https://github.com/jipfr.png",
-				"github": "https://github.com/jipfr"
-			},
-			{
-				"name": "monty",
-				"caption": "Webentwicklung",
-				"picture": "https://github.com/ashmonty.png",
-				"github": "https://github.com/ashmonty"
-			},
-			{
-				"name": "mrjvs",
-				"caption": "Designer",
-				"picture": "https://github.com/mrjvs.png",
-				"github": "https://github.com/mrjvs"
-			}
-		]
+		"text": "Triff das Team hinter dem Projekt"
 	},
 	"specialThanks": {
 		"title": "Besonderer Dank",
-		"text": "Ohne sie, wäre Pretendo nicht, wo es heute ist.",
-		"people": [
-			{
-				"name": "superwhiskers",
-				"caption": "Entwicklung der 'Crunch'-Bibliothek",
-				"picture": "https://github.com/superwhiskers.png",
-				"github": "https://github.com/superwhiskers"
-			},
-			{
-				"name": "Stary",
-				"caption": "3DS-Entwickler und NEX-Sezierer",
-				"picture": "https://github.com/Stary2001.png",
-				"github": "https://github.com/Stary2001"
-			},
-			{
-				"name": "Billy",
-				"caption": "Bewahrer",
-				"picture": "https://github.com/InternalLoss.png",
-				"github": "https://github.com/InternalLoss"
-			},
-			{
-				"name": "Shutterbug2000",
-				"caption": "Mario Kart 7 und 3DS-Forschung",
-				"picture": "https://cdn.discordapp.com/avatars/191370953807233024/0311b61e2009c1576828dd2e9a59d72e.png?size=128",
-				"github": "https://github.com/shutterbug2000"
-			},
-			{
-				"name": "rverse",
-				"caption": "Miiverse-Informationsaustausch",
-				"picture": "https://github.com/rverseTeam.png",
-				"github": "https://twitter.com/rverseClub"
-			},
-			{
-				"name": "Kinnay",
-				"special": "Besonderer Dank",
-				"caption": "Forschung auf Nintendo-Datenstrukturen",
-				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
-				"github": "https://github.com/Kinnay"
-			},
-			{
-				"name": "NinStar",
-				"caption": "Icons für den Mii-Editor und Juxt-Reaktionen",
-				"picture": "https://github.com/ninstar.png",
-				"github": "https://github.com/ninstar"
-			},
-			{
-				"name": "GitHub-Mitwirkende",
-				"caption": "Übersetzungen und andere Beiträge",
-				"picture": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-				"github": "https://github.com/PretendoNetwork"
-			}
-		]
+		"text": "Ohne sie wäre Pretendo nicht, wo es heute ist."
 	},
 	"discordJoin": {
 		"title": "Bleib auf dem Laufenden",
-		"text": "Tritt unserem Discord-Server bei um die neuesten Updates des Projektes zu erhalten.",
+		"text": "Tritt unserem Discord-Server bei, um die neuesten Updates des Projektes zu erhalten.",
 		"widget": {
 			"text": "Erhalte Echtzeitinformationen über unseren Fortschritt",
 			"button": "Tritt dem Server bei"
@@ -242,7 +141,7 @@
 	},
 	"blogPage": {
 		"title": "Blog",
-		"description": "Die letzten Updates in Kurzform. Wenn du Updates häufiger einsehen möchtest, unterstütze uns doch bei <a href=\"https://www.patreon.com/PretendoNetwork\" target=\"_blank\">Patreon</a>.",
+		"description": "Die letzten Updates in Kurzform. Wenn du Updates häufiger einsehen möchtest, kannst du uns gerne <a href=\"/account/upgrade\" target=\"_blank\">unterstützen</a>.",
 		"published": "Veröffentlicht von",
 		"publishedOn": "am"
 	},
@@ -283,8 +182,8 @@
 				"discord": "Discord",
 				"connectedToDiscord": "Verbunden mit Discord als",
 				"linkDiscord": "Discord-Konto verknüpfen",
-				"newsletter": "Mitteilungsblatt",
-				"newsletterPrompt": "Erhalte Projekt-Updates per E-Mail (Du kannst den Newsletter jederzeit ablehnen)",
+				"newsletter": "Newsletter",
+				"newsletterPrompt": "Erhalte Projekt-Updates per E-Mail (Du kannst sie jederzeit abbestellen)",
 				"passwordPrompt": "Gib dein PNID-Passwort ein, um Cemu-Dateien herunterzuladen",
 				"hasAccessPrompt": "Mit deiner aktuellen Stufe hast du Zugang zu den Beta-Servern. Cool!",
 				"noDiscordLinked": "Kein Discord-Konto verknüpft.",
@@ -294,7 +193,7 @@
 				"password": "Passwort",
 				"passwordResetNotice": "Nachdem du dein Passwort geändert hast, wirst du von allen Geräten abgemeldet.",
 				"removeDiscord": "Discord-Konto entfernen",
-				"no_signins_notice": "Anmeldeverlauf wird momentan nicht verfolgt. Schau später nochmal vorbei!",
+				"no_signins_notice": "Der Anmeldeverlauf wird momentan nicht gespeichert. Schau später nochmal vorbei!",
 				"no_edit_from_dashboard": "PNID Einstellungen vom Nutzer Dashboard sind momentan nicht verfügbar. Bitte aktualisiere die Benutzereinstellungen über deine verknüpfte Konsole",
 				"no_newsletter_notice": "Newsletter ist momentan nicht verfügbar. Schau später nochmal vorbei",
 				"userSettings": "Nutzer-Einstellungen"
@@ -356,7 +255,7 @@
 				},
 				{
 					"header": "Hast du einen Fehler?",
-					"caption": "Suche nach diesem hier"
+					"caption": "Suche hier nach ihm"
 				}
 			]
 		},
